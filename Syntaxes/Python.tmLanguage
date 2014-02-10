@@ -22,6 +22,7 @@
 		<string>SConscript</string>
 		<string>gyp</string>
 		<string>gypi</string>
+		<string>Snakefile</string>
 	</array>
 	<key>firstLineMatch</key>
 	<string>^#!/.*\bpython\b</string>
